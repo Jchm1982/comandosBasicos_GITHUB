@@ -62,3 +62,5 @@ Cuando ya se tengan los cambios en la rama y queremos integrarlo con el flujo pr
 
 Ya que estemos en la rama que va a recibir los cambios ejecutamos
 -- git merge (nomre de la rama que contiene los cambios)
+
+== Clase 2 del modulo 4 ==
