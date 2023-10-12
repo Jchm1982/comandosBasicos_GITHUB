@@ -44,3 +44,21 @@ git clone -> y la url del repo remoto
 
 
 ================     RAMAS en Github     ==================
+Las ramas son lineas de tiempo paralelas a nuestro flujo principal de trabajo, y para ver la ramas que se tiene en GIT es con el sig. comando:
+
+-- git branch
+
+** para crear una nueva rama
+git switch -c "nombre de la rama"
+
+Para que se vean las ramas en GiTHUB, se debe a que primero se tiene que actualizar el repo. remoto con la rama que se creo en el repo local
+
+-- git push origin "nombre de la rama"
+ya con esto se mostrara la rama en el repo remoto.
+
+Cuando ya se tengan los cambios en la rama y queremos integrarlo con el flujo principal
+1.-Es movernos al flujo de trabajo al cual queremos unir lo cambios
+-- git switch main (nombre de la rama a unir) -> Coneste nos cambia a la ram main
+
+Ya que estemos en la rama que va a recibir los cambios ejecutamos
+-- git merge (nomre de la rama que contiene los cambios)
