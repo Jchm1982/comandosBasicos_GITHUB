@@ -6,5 +6,9 @@ Se tiene que agregar el siguiente comando:
 *La forma de comprobar con el comando-> ls -a, deberia mostrar un archivo oculto .git
 
 Archivos para documentos:
+git status -> Con el comando, confirmas que no ha trackeado el archivo
 git add . -> Sirve para mover archivos de área de trabajo al área al staging
 git commit -> Sirve para mover archivos de área de trabajo al staging de repositorio
+
+Se puede crear un nuevo archivo:
+touch README.md
