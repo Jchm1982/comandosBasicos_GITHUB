@@ -1,4 +1,4 @@
-================     COMENZAR PROYECTO     ==================
+================     COMENZAR PROYECTO ( LOCAL )     ==================
 
 Iniciar el proyecto:
 
@@ -18,4 +18,11 @@ touch README.md
 
 ================     CREAR UN NUEVO REPOSITORIO     ==================
 
+1.- SE DEBE CREAR EL REPOSITORIO EN EL LOCAL
+2.- SE DEBE CREAR EL REPOSITORIO EN EL SERVIDOR (GITHUB)
+3.- INDICAR AL REPO LOCAL A CUAL REPOSITORIO REMOTO SE VA A CONECTAR
 
+Se crea el repositorio en GITHUB de forma normal:
+-Debe ser publico
+
+Y por ultimo debemos indicar al repo. Local cual sera el repo. remoto al cual debe conectarse. GITHUB muestra las instrucciones de como se debe hacer:
