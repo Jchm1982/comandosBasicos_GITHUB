@@ -26,3 +26,21 @@ Se crea el repositorio en GITHUB de forma normal:
 -Debe ser publico
 
 Y por ultimo debemos indicar al repo. Local cual sera el repo. remoto al cual debe conectarse. GITHUB muestra las instrucciones de como se debe hacer:
+git init
+git add README.md
+git commit -m "Primer Commit"
+git branch -M main (aqui puedes cambiar el nombre de main)
+git remote add origin git@github.com:yfbdfguekfq582357123
+git push -u origin main
+
+Y con esto se veran los cambio en local
+
+================     DESCARGAR REPOSITORIOS     ==================
+
+Lo primero que se debe de hacer es copiar la url del proyecto.
+Con las claves SSH
+Y en la terminal ejecutar:
+git clone -> y la url del repo remoto
+
+
+================     RAMAS en Github     ==================
