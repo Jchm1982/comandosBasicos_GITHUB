@@ -1,3 +1,5 @@
+================     COMENZAR PROYECTO     ==================
+
 Iniciar el proyecto:
 
 #Desde Terminal:
@@ -13,3 +15,7 @@ git log -> Es para ver el contenido del áre adel repositorio
 
 Se puede crear un nuevo archivo:
 touch README.md
+
+================     CREAR UN NUEVO REPOSITORIO     ==================
+
+
