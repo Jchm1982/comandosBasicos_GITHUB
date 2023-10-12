@@ -8,7 +8,8 @@ Se tiene que agregar el siguiente comando:
 Archivos para documentos:
 git status -> Con el comando, confirmas que no ha trackeado el archivo
 git add . -> Sirve para mover archivos de área de trabajo al área al staging
-git commit -> Sirve para mover archivos de área de trabajo al staging de repositorio
+git commit -> Sirve para mover archivos de área de trabajo al staging de repositorio -- user$ git commmit -m "Primer Commit" -- 
+git log -> Es para ver el contenido del áre adel repositorio
 
 Se puede crear un nuevo archivo:
 touch README.md
