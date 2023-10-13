@@ -4,7 +4,9 @@ Iniciar el proyecto:
 
 #Desde Terminal:
 Se tiene que agregar el siguiente comando:
+```
 --  git init
+```
 *La forma de comprobar con el comando-> ls -a, deberia mostrar un archivo oculto .git
 
 Archivos para documentos:
