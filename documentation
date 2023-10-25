@@ -16,7 +16,23 @@ git commit -m "Se coloca un msm" -> Se toma la fotografia de mis archivos
 
 git checkout -- . -> Sirve para regenerar el proyecto si es que por error se elimino alguna carpeta
 
+================     SUBIR A UN REPOSITORIO EN GUTHUB     ==================
 
+***   or push an existing repository from the command line   ***
+***   se copia todo como esta y se pega en terminal   ***
+
+git remote add origin /*direccion de github*/
+git branch -M main
+git push -u origin main
+
+recargamos y ya se deberia poder ver todos mis archivos en el repo de github
+
+================     CREAR UN ARCHIVO README.md     ==================
+Sirve para que en el repo se muestre la info. del proyecto
+
+git add .
+git commit -m "Leyenda"
+git push -> Para desplegar en github
 
 
 *********************************************************************************************************************************************
