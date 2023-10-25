@@ -1,5 +1,34 @@
 ================     COMENZAR PROYECTO ( LOCAL )     ==================
 
+.gitignore -> Ese archivo se crea para que todos los archivos o directorios que se quieren ignorar
+
+/'nombre de carpeta'/*.txt -> De esta forma es ignorar todos los archivos de esta carpeta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*********************************************************************************************************************************************
+================     COMENZAR PROYECTO ( LOCAL )     ==================
+
 Iniciar el proyecto:
 
 #Desde Terminal:
