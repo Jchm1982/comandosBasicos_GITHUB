@@ -6,24 +6,15 @@
 
 /'nombre de carpeta'/*.txt -> De esta forma se ignoran todos los archivos de esta carpeta
 
+Despues de haber creado el archivo .gitignore realizamos la siguientes lineas de comando:
 
+git init -> Cobre la raiz del proyecto
 
+git add . ->Para preparar los archivos como si se hubiera sacado una fotografia, este toma todos los cambios desde el ultimo commit
 
+git commit -m "Se coloca un msm" -> Se toma la fotografia de mis archivos
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+git checkout -- . -> Sirve para regenerar el proyecto si es que por error se elimino alguna carpeta
 
 
 
