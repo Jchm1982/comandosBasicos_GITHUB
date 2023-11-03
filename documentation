@@ -104,3 +104,35 @@ Ya que estemos en la rama que va a recibir los cambios ejecutamos
 -- git merge (nomre de la rama que contiene los cambios)
 
 == Clase 2 del modulo 4 ==
+
+
+
+
+
+================     COMENZAR PROYECTO ( LOCAL ) CF     ==================
+
+git init -> Para empezar en la carpeta de trabajo
+git status -> Preguntar el estatus de nuestro Repo
+git add .-> Para agregar todos los archivos al area de trabajo
+git rm --cached 'nomvre del archivo' -> Quiar el archivo que este en el área de trabajo
+
+
+================     COMMIT     ==================
+Punto de salvado de un proyecto
+git commit -m "Mensaje de Commit"
+git log -> Para revisar los commits que se han realizado
+git chekcout -> Es para viajar entre commits realizados
+git chekcout master-> Es para viajar al ultimo commit realizado
+fit reset --soft 'Aqui va el commit' -> Es para eliminar un commit Soft solo elimina en GIT y no en el espacio de trabajo LOCAL
+fit reset --hard 'Aqui va el commit' -> Eliminara toda l ainformación hasta en local
+
+================     RAMAS     ==================
+git branch -> Para revisar las ramas
+git branch 'nombre'-> Para crear la rama
+git checkout 'nombre de la rama' ->Par acambiar de rama
+git merge -> para unir la rama de pruebas a la rama master
+git branch 'nombre' -d->Sirve para eliminar ramas
+
+
+================     COMENZAR PROYECTO ( LOCAL ) GITHUB CF     ==================
+
